@@ -1,0 +1,18 @@
+﻿Nama: Fadly Fais Fajarruddin
+Assignment: ILT SS 5
+
+
+Ini adalah deskripsi penjabaran fase Project Initiation dan Project Planning untuk ide project capstone saya yaitu “MindBalance: Prediksi Tingkat Stres dan Rekomendasi”.
+Fase 1: Project Initiation MindBalance
+Tahap ini adalah pondasi awal di mana "MindBalance: Prediksi Tingkat Stres dan Rekomendasi" dievaluasi dan didefinisikan secara resmi untuk menetapkan visi proyek.
+* Latar Belakang & Tujuan: Proyek ini menargetkan masalah tingginya stres di masyarakat, terutama di kalangan mahasiswa dan pekerja profesional yang memiliki beban tugas tinggi. Tujuannya adalah menciptakan platform cerdas pendeteksi stres dini dari data harian pengguna, lalu memberikan saran relaksasi atau manajemen waktu yang tervalidasi.
+* Ruang Lingkup: Fokus utama proyek ada pada perancangan antarmuka pengguna (UI/UX) yang ramah dan menenangkan, integrasi sistem prediksi berbasis Artificial Intelligence (AI), dan pembuatan modul rekomendasi yang divalidasi oleh ahli. Aplikasi ini dirancang berfungsi murni sebagai langkah preventif, bukan sebagai alat rujukan medis resmi.
+* Identifikasi Stakeholder: Melibatkan Project Manager, tim pengembang lintas platform (termasuk full-stack developer), desainer UI/UX, konsultan pakar psikologi untuk memastikan keakuratan saran, serta mahasiswa dan pekerja sebagai target pengguna akhir.
+* Project Charter: Pembuatan dokumen pengesahan proyek yang merangkum keseluruhan ruang lingkup, alokasi awal, dan menyatukan pemahaman yang selaras bagi seluruh tim inti sebelum komitmen yang lebih besar dilakukan.
+Fase 2: Project Planning MindBalance
+Fase perencanaan adalah cetak biru tentang bagaimana MindBalance akan diimplementasikan dari segi teknis, biaya, dan waktu. Tahap ini sangat krusial agar eksekusi proyek berjalan terstruktur, terukur, dan tepat sasaran.
+* Pengumpulan Kebutuhan (Requirements): Tim merinci fitur aplikasi, seperti dashboard analitik tingkat stres bulanan dan fitur pelaporan (check-in) harian. Secara teknis, dirancang arsitektur perangkat lunak menggunakan framework lintas platform seperti Flutter, serta persiapan integrasi API sistem kecerdasan buatan (seperti Gemini) untuk memproses teks keluhan pengguna secara presisi.
+* Work Breakdown Structure (WBS): Proyek kompleks dipecah ke dalam unit tugas-tugas kecil agar lebih terstruktur: riset literatur psikologi awal, perancangan prototipe interaktif di Figma, fase koding antarmuka dan backend, pelatihan model prediktif, hingga tahap UAT (User Acceptance Testing) kepada target pengguna awal.
+* Penjadwalan (Timeline): Menyusun lini masa yang realistis. Contohnya alokasi penyelesaian 3,5 bulan yang dipantau melalui Gantt Chart: 3 minggu pertama untuk riset UI/UX, 6 minggu untuk pengembangan fitur utama (frontend dan backend), 3 minggu untuk fase integrasi sistem AI, serta sisa waktu difokuskan untuk peluncuran beta dan bug fixing.
+* Manajemen Risiko: Risiko utama dari proyek kesehatan mental ini adalah potensi kebocoran data sensitif pengguna serta misprediksi AI yang bisa memicu kecemasan. Langkah mitigasinya mencakup penerapan keamanan enkripsi database yang ketat dan pencantuman disclaimer yang transparan mengenai batasan tanggung jawab aplikasi.
+* Alokasi Sumber Daya: Menetapkan anggaran operasional secara mendetail, yang mencakup alokasi biaya penyewaan cloud server, lisensi API pihak ketiga, serta kompensasi dan kebutuhan operasional seluruh jajaran developer selama siklus pengembangan berlangsung.

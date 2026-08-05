@@ -1,0 +1,9 @@
+﻿Nama: Fadly Fais Fajarruddin
+Assignment: ILT SS 7
+Halo, selamat pagi. Terima kasih banyak atas kesempatan wawancaranya hari ini. Tentu, saya akan dengan senang hati menceritakan sedikit tentang diri saya.
+1. Past 
+Perjalanan saya di dunia teknologi dan desain bermula dari ketertarikan yang besar terhadap cara sebuah aplikasi tidak hanya dibangun agar fungsional, tetapi juga harus nyaman saat digunakan oleh pengguna. Ketertarikan ini yang kemudian mendorong saya untuk menempuh pendidikan di program studi Teknik Informatika di Universitas Negeri Surabaya sejak tahun 2024. Di bangku kuliah, saya membangun fondasi yang kuat dalam pengembangan perangkat lunak secara utuh, mulai dari pemahaman frontend, backend, hingga perancangan arsitektur sistem.
+2. Present 
+Saat ini, saya menjabat sebagai Lead UI/UX Designer di Diginesa. Dalam peran ini, tanggung jawab utama saya adalah memimpin arah desain produk perusahaan dan memastikan setiap solusi yang kami kembangkan memiliki pengalaman pengguna yang optimal dan menarik secara visual. Selain merancang antarmuka, saya juga memiliki tanggung jawab untuk membimbing dan menjadi mentor bagi lebih dari 30 peserta. Mengajar dan membagikan ilmu mengenai prinsip-prinsip UI/UX kepada mereka tidak hanya mengasah kemampuan komunikasi saya, tetapi juga memperdalam pemahaman teknis saya sendiri.
+3. Future 
+Untuk kedepannya, tujuan saya adalah ingin terus berkembang dalam menciptakan produk-produk digital yang inovatif dan berdampak. Saya memiliki ketertarikan khusus pada teknologi modern seperti integrasi AI ke dalam aplikasi praktis sehari-hari untuk memecahkan masalah nyata di masyarakat. Oleh karena itu, saya sangat antusias dengan peluang di posisi ini karena saya melihat visi perusahaan sangat sejalan dengan tujuan saya untuk terus berinovasi dan berkontribusi melalui desain dan teknologi.

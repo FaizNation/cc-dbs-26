@@ -1,0 +1,18 @@
+﻿Nama: Fadly Fais Fajarruddin
+Assignment: ILT SS 2
+
+
+1. Where am I now?
+Saat ini, saya adalah mahasiswa Teknik Informatika semester empat. Fase ini terasa sebagai titik balik yang penting buat saya, karena fokus belajar sudah bergeser jauh dari sekadar teori di kelas menuju praktik langsung. Saya sadar betul bahwa sekarang adalah waktunya berhenti menjadi mahasiswa pasif dan mulai memposisikan diri sebagai calon praktisi teknologi yang aktif membangun pengalaman dan portofolio.
+Sejauh ini, saya sudah mengeksplorasi banyak keterampilan teknis, mulai dari web dan mobile development, manajemen database, design UI/UX, sampai mencoba mengintegrasikan AI ke dalam proyek aplikasi. Pastinya, masih banyak sekali hal yang harus saya pelajari. Tidak jarang saya merasa kewalahan atau ragu ketika harus berhadapan dengan bug yang rumit, adaptasi dengan framework baru, atau sekadar menyeimbangkan tugas kuliah dengan side project. Namun, saya pelan-pelan belajar melihat semua kesulitan itu bukan sebagai jalan buntu, melainkan proses yang memang harus dilewati untuk menajamkan logika pemrograman dan membentuk mental problem solver.
+
+
+2. Where do I want to go?
+Kalau melihat garis waktu dua tahun setelah lulus nanti, visi saya terbagi menjadi dua fokus utama yang saling melengkapi: mematangkan karir profesional dan membuka jalan untuk studi S2 di luar negeri.
+Target pertama saya setelah wisuda adalah langsung terjun ke industri teknologi sebagai Software Engineer atau Developer. Di 1-2 tahun pertama, orientasi saya murni mencari ilmu dan pengalaman praktis, bukan semata-mata mengejar posisi atau jabatan instan. Saya ingin masuk ke lingkungan kerja yang dinamis, berkontribusi membuat produk yang dipakai banyak orang, belajar dari engineer yang lebih senior, dan merasakan langsung software development life cycle di dunia nyata dari planning sampai maintenance.
+Bagi saya, masuk dunia kerja justru adalah tempat belajar lanjutan. Saya harus proaktif mencari feedback, cepat beradaptasi dengan teknologi industri terkini, dan membangun relasi profesional. Harapannya, di akhir tahun kedua bekerja, fondasi finansial saya sudah mandiri dan portofolio profesional saya sudah kuat.
+Setelah itu, prioritas kedua saya adalah mengambil gelar S2 di luar negeri. Ini bukan cuma sekedar angan-angan, melainkan rencana yang sudah saya rancang eksekusinya. Setelah mencari pengalaman kerja selama kurang lebih dua tahun, saya menargetkan sudah masuk tahap persiapan akhir atau syukur-syukur sudah memegang Letter of Acceptance. Pengalaman kerja dua tahun tersebut justru akan menjadi modal utama dan nilai jual yang kuat saat saya menyusun Motivation Letter atau esai beasiswa nanti.
+Supaya rencana S2 ini benar-benar terwujud, ada beberapa langkah yang mulai saya cicil bahkan sejak semester empat ini:
+1. Konsisten meluangkan waktu belajar bahasa Inggris untuk mencapai target skor IELTS/TOEFL.
+2. Memanfaatkan masa kerja nanti untuk mencari tahu bidang IT spesifik yang benar-benar ingin saya perdalam di jenjang S2, misalnya mengambil spesialisasi lebih jauh di bidang Artificial Intelligence.
+3. Aktif mempublikasikan karya, entah itu berkontribusi di repository open-source, menulis artikel teknis, atau ikut serta di komunitas IT untuk memperkuat profil akademik dan profesional saya.
