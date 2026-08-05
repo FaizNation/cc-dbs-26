@@ -1,0 +1,17 @@
+{
+  "name": "openjob-consumer",
+  "version": "1.0.0",
+  "description": "Background worker for OpenJob email notifications",
+  "main": "src/consumer.js",
+  "scripts": {
+    "start": "node src/consumer.js"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "dotenv": "^17.4.2",
+    "nodemailer": "^6.10.0",
+    "pg": "^8.21.0",
+    "nanoid": "^3.3.12",
+    "bcrypt": "^6.0.0"
+  }
+}
